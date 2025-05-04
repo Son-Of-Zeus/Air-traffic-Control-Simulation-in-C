@@ -4,6 +4,8 @@ README
 
 Packages Needed:
 1.	GTK+3
+
+
 A Guide to Run the Flight Simulator:
 
 1.	Compile the GUI.c file and crew.c file together to create a single output file.
